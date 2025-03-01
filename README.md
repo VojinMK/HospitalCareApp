@@ -1,4 +1,4 @@
-# HospitalCareApp 🏥  
+# HospitalCareApp
 
 ## Web application for hospital management, built with Spring, PostgreSQL, and Angular. The application serves hospital system employees to efficiently manage their work by handling records for patients, diagnoses, hospitals, and hospital departments.
 
